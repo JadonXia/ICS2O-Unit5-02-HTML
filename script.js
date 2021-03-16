@@ -8,7 +8,7 @@ function displayalert () {
 }
 
 function changeparagraph () {
-  document.getElementById('changeparagraph').style.fontSize ='150%'
-  document.getElementById('changeparagraph').style.color ='red'
-  document.getElementById('changeparagraph').style.fontFamily ='fantasy'
+  document.getElementById('changeparagraph').style.fontSize = '150%'
+  document.getElementById('changeparagraph').style.color = 'red'
+  document.getElementById('changeparagraph').style.fontFamily = 'fantasy'
 }
